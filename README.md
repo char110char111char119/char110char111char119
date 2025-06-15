@@ -1,16 +1,38 @@
-<div style="width:100%;display:flex;justify-content:center;">
-   <table style="width:100%;max-width:800px;">
-      <tr>
-         <td style="width:50%;text-align:center;"><a href="https://discord.com/users/1200557982434472002"><img src="https://lanyard.cnrad.dev/api/1200557982434472002" alt="Discord Presence" style="width:100%;height:auto;"></a></td>
-         <td style="width:50%;text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=char110char111char119&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=fff&title_color=fff&langs_count=3&line_height=34" alt="Code Time Stats" style="width:100%;height:auto;"></td>
-      </tr>
-   </table>
-</div>
+<div align="center">
 
-<h3>Reverse Engineering</h2>
-<h2>Languages</h4>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,js,ts,go,py,ruby,lua"/><br>
-<h2>Databases</h4>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/><br>
-<h2>Software & Tools</h4>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,sentry,vercel,cloudflare,github,git,robloxstudio,windows,linux"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://discord.com/users/1200557982434472002">
+<img src="https://lanyard.cnrad.dev/api/1200557982434472002" alt="Discord Presence" />
+</a>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=char110char111char119&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=ffffff&title_color=ffffff&langs_count=3&line_height=34" alt="Top Languages Stats" />
+</td>
+</tr>
+</table>
+
+---
+
+### Reverse Engineering
+
+---
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,js,ts,go,py,ruby,lua" alt="Programming Languages" />
+
+---
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" alt="Databases" />
+
+---
+
+### Software and Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,sentry,vercel,cloudflare,github,git,robloxstudio,windows,linux" alt="Software and Tools" />
+
+</div>
