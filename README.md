@@ -7,10 +7,10 @@
    </table>
 </div>
 
-<h3>Reverse Engineering</h3>
-<h2>Languages</h2>
+<h3>Reverse Engineering</h2>
+<h2>Languages</h4>
 <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,rust,js,ts,go,py,ruby,lua"/><br>
-<h2>Databases</h2>
+<h2>Databases</h4>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis"/><br>
-<h2>Software & Tools</h2>
+<h2>Software & Tools</h4>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sentry,vercel,cloudflare,github,git,robloxstudio,windows,linux"/>
