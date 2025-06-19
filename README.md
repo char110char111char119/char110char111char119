@@ -8,7 +8,7 @@
 </a>
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=char110char111char119&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=ffffff&title_color=ffffff&langs_count=3&line_height=34" alt="Top Languages Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nowkyyl&show_icons=true&bg_color=1A1C1F&hide_border=true&text_color=ffffff&title_color=ffffff&langs_count=3&line_height=34" alt="Top Languages Stats" />
 </td>
 </tr>
 </table>
